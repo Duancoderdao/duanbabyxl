@@ -221,7 +221,7 @@ div#panel:before {
 	font-size: 8vmin;
 	width: 100vw;
 	left: 0;
-	z-index: 6;
+	z-index: 8;
 	text-shadow: 0 0 1px #fff, 0 0 3px #fff;
 	border-bottom: 1vmin dotted #fff;
 }
